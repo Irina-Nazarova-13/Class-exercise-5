@@ -1,0 +1,15 @@
+C:\Users\nazar\MAIN DATA STORAGE\STUDY\Semester 2\NETD\Class Exercise 5 - CustomerViewer\bin\Debug\netcoreapp3.1\CustomerViewer.exe
+C:\Users\nazar\MAIN DATA STORAGE\STUDY\Semester 2\NETD\Class Exercise 5 - CustomerViewer\bin\Debug\netcoreapp3.1\CustomerViewer.deps.json
+C:\Users\nazar\MAIN DATA STORAGE\STUDY\Semester 2\NETD\Class Exercise 5 - CustomerViewer\bin\Debug\netcoreapp3.1\CustomerViewer.runtimeconfig.json
+C:\Users\nazar\MAIN DATA STORAGE\STUDY\Semester 2\NETD\Class Exercise 5 - CustomerViewer\bin\Debug\netcoreapp3.1\CustomerViewer.runtimeconfig.dev.json
+C:\Users\nazar\MAIN DATA STORAGE\STUDY\Semester 2\NETD\Class Exercise 5 - CustomerViewer\bin\Debug\netcoreapp3.1\CustomerViewer.dll
+C:\Users\nazar\MAIN DATA STORAGE\STUDY\Semester 2\NETD\Class Exercise 5 - CustomerViewer\bin\Debug\netcoreapp3.1\CustomerViewer.pdb
+C:\Users\nazar\MAIN DATA STORAGE\STUDY\Semester 2\NETD\Class Exercise 5 - CustomerViewer\obj\Debug\netcoreapp3.1\CustomerViewer.csprojAssemblyReference.cache
+C:\Users\nazar\MAIN DATA STORAGE\STUDY\Semester 2\NETD\Class Exercise 5 - CustomerViewer\obj\Debug\netcoreapp3.1\CustomerViewer.formCustomerEntry.resources
+C:\Users\nazar\MAIN DATA STORAGE\STUDY\Semester 2\NETD\Class Exercise 5 - CustomerViewer\obj\Debug\netcoreapp3.1\CustomerViewer.csproj.GenerateResource.cache
+C:\Users\nazar\MAIN DATA STORAGE\STUDY\Semester 2\NETD\Class Exercise 5 - CustomerViewer\obj\Debug\netcoreapp3.1\CustomerViewer.AssemblyInfoInputs.cache
+C:\Users\nazar\MAIN DATA STORAGE\STUDY\Semester 2\NETD\Class Exercise 5 - CustomerViewer\obj\Debug\netcoreapp3.1\CustomerViewer.AssemblyInfo.cs
+C:\Users\nazar\MAIN DATA STORAGE\STUDY\Semester 2\NETD\Class Exercise 5 - CustomerViewer\obj\Debug\netcoreapp3.1\CustomerViewer.csproj.CoreCompileInputs.cache
+C:\Users\nazar\MAIN DATA STORAGE\STUDY\Semester 2\NETD\Class Exercise 5 - CustomerViewer\obj\Debug\netcoreapp3.1\CustomerViewer.dll
+C:\Users\nazar\MAIN DATA STORAGE\STUDY\Semester 2\NETD\Class Exercise 5 - CustomerViewer\obj\Debug\netcoreapp3.1\CustomerViewer.pdb
+C:\Users\nazar\MAIN DATA STORAGE\STUDY\Semester 2\NETD\Class Exercise 5 - CustomerViewer\obj\Debug\netcoreapp3.1\CustomerViewer.genruntimeconfig.cache
